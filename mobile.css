@@ -10,6 +10,7 @@
   justify-content: flex-start;
   align-items: center;
   height: 100px;
+  width: 100%;
 }
 
 .logo {
@@ -37,4 +38,5 @@
 }
 .container4 {
   height: 100px;
+  width: 100%;
 }
