@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+}
+
+.nav {
+  display: none;
+}
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100px;
+}
+
+.logo {
+  margin: 10px;
+  font-size: 50px;
+}
+.contain {
+  height: 100%;
+}
+.container2 {
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  margin: 1px;
+}
+.menu {
+  display: flex;
+  width: 95%;
+}
+.container3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.container4 {
+  height: 100px;
+}
